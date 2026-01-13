@@ -16,7 +16,7 @@
 - 📎 外部链接和资源
 - 💡 项目与笔记
 
-网站使用 GitHub Pages 免费托管，静态文件自动发布，无需额外服务器。 :contentReference[oaicite:1]{index=1}
+网站使用 GitHub Pages 免费托管，静态文件自动发布，无需额外服务器。
 
 ---
 
