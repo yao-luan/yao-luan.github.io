@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: yao-luan.github.io
+message: "If you use this project, please cite it."
+authors:
+  - family-names: Yao
+    given-names: Luan
+repository-code: https://github.com/yao-luan/yao-luan.github.io
+license: MIT
