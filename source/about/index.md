@@ -26,7 +26,7 @@ permalink: /about/
 ======================= -->
 
 <div class="author-card">
-  <img src="/img/avatar.jpg" class="author-avatar" />
+  <img src="/img/天津站留念2.jpg" class="author-avatar" />
 
   <h2>你的名字</h2>
 
