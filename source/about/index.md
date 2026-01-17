@@ -26,31 +26,26 @@ permalink: /about/
 ======================= -->
 
 <div class="author-card">
-  <div class="author-left">
-    <img src="/img/天津站留念2.jpg" class="author-avatar" />
-  </div>
+  <img src="/img/天津站留念2.jpg" class="author-avatar" />
 
-  <div class="author-right">
-    <h2>你的名字</h2>
+  <h2>你的名字</h2>
 
-    <p class="author-bio">
-      一句话身份描述（如：后端开发者 / 全栈工程师 / 研究生）
-    </p>
+  <p class="author-bio">
+    一句话身份描述（如：后端开发者 / 全栈工程师 / 研究生）
+  </p>
 
-    <p class="author-meta">
-      学校 / 公司 / 团队<br/>
-      城市，国家
-    </p>
+  <p class="author-meta">
+    学校 / 公司 / 团队<br/>
+    城市，国家
+  </p>
 
-    <p class="author-links">
-      <a href="mailto:your_email@example.com">📧 Email</a><br/>
-      <a href="https://github.com/yourname">🐙 GitHub</a><br/>
-      <a href="/archives/">📝 博客</a><br/>
-      <a href="/files/CV.pdf">📄 简历（可选）</a>
-    </p>
-  </div>
+  <p class="author-links">
+    <a href="mailto:your_email@example.com">📧 Email</a><br/>
+    <a href="https://github.com/yourname">🐙 GitHub</a><br/>
+    <a href="/archives/">📝 博客</a><br/>
+    <a href="/files/CV.pdf">📄 简历（可选）</a>
+  </p>
 </div>
-
 
 <style>
 .author-card {
@@ -204,4 +199,3 @@ permalink: /about/
   起始年份 – 结束年份  
 
 </div>
-
